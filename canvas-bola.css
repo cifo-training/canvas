@@ -1,0 +1,14 @@
+/*$borde-inicial:1px solid black;*/
+
+#canvas{
+   /* margin:0;
+    padding:0;*/
+    border:1px solid black;
+    background: black;
+}
+body{
+    margin:0;
+    padding:0;
+    /*border-size:border-box;*/
+    overflow:hidden;
+}
